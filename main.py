@@ -27,7 +27,7 @@ def is_valid_webhook(url: str) -> bool:
     try:
         res = requests.post(
             url,
-            json={"content": DEFAULT_MESSAGE + " https://discord.gg/DM8GtTT4rX"},
+            json={"content": DEFAULT_MESSAGE + " https://arabic.cat/webhooks"},
         )
         return bool(res.status_code == 204)
     except requests.exceptions.RequestException:
