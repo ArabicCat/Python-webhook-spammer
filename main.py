@@ -51,7 +51,7 @@ def main():
             "                  ▄▄  █░░░░░░░░░░░█" + "\n"
             "                 █▄▄█ █░░▀░░┬░░▀░░█ █▄▄█" + "\n"
             "\n"
-            "                 Author: Kars#9142\n"
+            "                 Author: Kars#2762\n"
             "                 GitHub: https://github.com/ArabicCat\n\n"
         )
         url = input(
